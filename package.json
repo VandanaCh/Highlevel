@@ -1,0 +1,27 @@
+{
+  "name": "highlevel",
+  "version": "1.0.0",
+  "description": "Testing git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VandanaCh/Highlevel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VandanaCh/Highlevel/issues"
+  },
+  "homepage": "https://github.com/VandanaCh/Highlevel#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.2.0"
+  }
+}
